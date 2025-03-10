@@ -1,0 +1,1 @@
+print('Relatório vendas - Versão 1')
